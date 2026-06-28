@@ -82,12 +82,12 @@ The dashboard includes:
 
 | Folder | File | Description |
 |---|---|---|
-| dataset/ | instagram_clean.csv | Clean dataset — 17 posts with all metrics |
-| analysis/ | instagram_analysis.xlsx | Google Sheets with formulas |
-| dashboard/ | dashboard.pdf | Looker Studio dashboard as PDF |
-| screenshots/ | dashboard_screenshot.png | Screenshot of the dashboard |
-| docs/ | documentation.pdf | Full project report |
+| Dataset/ | instagram_clean.csv | Clean dataset — 17 posts with all metrics |
+| Analysis/ | instagram_analysis.xlsx | Google Sheets with formulas |
+| Dashboard/ | dashboard.pdf | Link |Looker Studio dashboard as PDF |
+| Screenshots/ | Dashboardscreenshot.png | Screenshot of the dashboard |
+| Docs/ | documentation.pdf | Full project report |
 
 ---
 
-Made by [Your Name] | 2026
+Made by Harsh Chauhan 

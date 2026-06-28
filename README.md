@@ -44,7 +44,8 @@ A beginner data analytics project analysing personal Instagram reach and engagem
 
 ## Dashboard
 
-> 🔗 **[View Live Interactive Dashboard]([https://lookerstudio.google.com/your-link-here](https://datastudio.google.com/reporting/7ddb486f-13c4-4336-a651-17edb1b38f48]))**
+> 🔗 **[View Live Interactive Dashboard]([https://lookerstudio.google.com/your-link-here](https://datastudio.google.com/reporting/7ddb486f-13c4-4336-a651-17edb1b38f48))**
+> 
 
 The dashboard includes:
 - 3 KPI scorecards — Total Reach, Avg Engagement Rate, Total Likes
@@ -81,12 +82,12 @@ The dashboard includes:
 
 | Folder | File | Description |
 |---|---|---|
-| Dataset/ | instagram_clean.csv | Clean dataset — 17 posts with all metrics |
-| Analysis/ | instagram_analysis.xlsx | Google Sheets with formulas |
-| Dashboard/ | dashboard.pdf | Looker Studio dashboard as PDF |
-| Screenshot/ | Dashboardscreenshot.png | Screenshot of the dashboard |
-| Docs/ | documentation.pdf | Full project report |
+| dataset/ | instagram_clean.csv | Clean dataset — 17 posts with all metrics |
+| analysis/ | instagram_analysis.xlsx | Google Sheets with formulas |
+| dashboard/ | dashboard.pdf | Looker Studio dashboard as PDF |
+| screenshots/ | dashboard_screenshot.png | Screenshot of the dashboard |
+| docs/ | documentation.pdf | Full project report |
 
 ---
 
-Made by Harsh Chauhan
+Made by [Your Name] | 2026
